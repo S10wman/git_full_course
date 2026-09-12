@@ -1,1 +1,3 @@
-console.log("Hello Git");
+function freet()[
+console.log("Hello from the remote branch")
+  }
